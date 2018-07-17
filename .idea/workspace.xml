@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44619a72-7d62-48ec-b655-bf23784545db" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/asset-manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/service-worker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/main.edd75c76.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/main.edd75c76.js.map" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/static/js/main.edd75c76.js" afterPath="$PROJECT_DIR$/static/js/main.8c247733.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/static/js/main.edd75c76.js.map" afterPath="$PROJECT_DIR$/static/js/main.8c247733.js.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/js/main.8c247733.js" afterPath="$PROJECT_DIR$/static/js/main.76eec203.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/js/main.8c247733.js.map" afterPath="$PROJECT_DIR$/static/js/main.76eec203.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset-manifest.json" afterPath="$PROJECT_DIR$/asset-manifest.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -117,12 +110,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531864437870</updated>
-      <workItem from="1531864440264" duration="503000" />
+      <workItem from="1531864440264" duration="899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="503000" />
+    <option name="totallyTimeSpent" value="899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -166,6 +159,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/main.8c247733.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="0" column="375951" selection-start-line="0" selection-start-column="375946" selection-end-line="0" selection-end-column="375951" />
           <folding />
         </state>
       </provider>
